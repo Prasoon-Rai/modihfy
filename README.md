@@ -1,22 +1,4 @@
-# 🦋 Modihfy: Fluid Image Morphing
-
-Ever wanted to turn an apple into an orange using thousands of tiny flying particles? Well, now you can! 
-
-Welcome to **Modihfy** (aka Morpher), a high-octane, silky-smooth, web-based image morphing application. We use some seriously cool math and web tech to break images down into swarms of "boids" (bird-like particles) and smoothly morph them into an entirely new image.
-
----
-
-## ✨ Features (The Fun Stuff)
-
-- **🚀 Blazing Fast 60fps Performance**: Nobody likes a choppy animation. We guarantee a smooth ride.
-- **🧠 Boids Physics Simulation**: Particles don't just move directly from A to B; they swarm, align, and flock together organically.
-- **🎥 Export to GIF**: Created a masterpiece? Nice. Hit the "Download GIF" button and share it with the world!
-- **🌙 Deep Dark Mode UI**: A gorgeous, dark-mode-first single-page dashboard because staring at a bright white screen is so last decade.
-- **🗂️ Collapsible History Sidebar**: Keep track of your past morphs without cluttering up your workspace. 
-
----
-
-## 🔬 How It Works (The Nerdy Detail)
+# Modihfy
 
 Okay, so how do we actually pull this off without setting your browser on fire? Here's the secret sauce:
 
